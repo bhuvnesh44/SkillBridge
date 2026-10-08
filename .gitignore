@@ -1,0 +1,15 @@
+# AI project documentation
+.ai/
+
+# Local configuration 
+config/database.php
+
+# Environment files
+.env
+
+# Logs 
+*.log
+
+# OS files 
+.DS_Store
+Thumbs.db
